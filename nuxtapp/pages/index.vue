@@ -16,7 +16,7 @@ import BootstrapVue from "bootstrap-vue";
 export default {
   data() {
     return {
-      message: "hello tatu main",
+      message: "`雑魚乙",
     };
   },
   methods: {

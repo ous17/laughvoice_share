@@ -16,7 +16,7 @@ import BootstrapVue from "bootstrap-vue";
 export default {
   data() {
     return {
-      message: "`o-ai",
+      message: "`o-",
     };
   },
   methods: {

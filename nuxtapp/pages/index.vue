@@ -1,8 +1,7 @@
 <template>
   <div>
     <h1>{{ message }}</h1>
-    <b-button v-on:click="openExploler" variant="outline-info"
-      >ファイルを開く</b-button
+     <input type="file" class="form-control-file" id="inputFile">
     >
   </div>
 </template>
